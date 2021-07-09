@@ -1,7 +1,7 @@
 {
   "name": "jekyll-theme-primer",
   "version": "0.1.0",
-  "description": "A Jekyll theme based on GitHub's Primer styles",
+  "description": "Welcome to the New LinkedIn 🚀",
   "main": "index.html",
   "scripts": {
     "test": "script/cibuild"
