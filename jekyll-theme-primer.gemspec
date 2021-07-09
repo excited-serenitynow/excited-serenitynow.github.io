@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors       = ['GitHub, Inc.']
   s.email         = ['open-source@github.com']
   s.homepage      = 'https://github.com/pages-themes/jekyll-theme-primer'
-  s.summary       = "Primer is a Jekyll theme for GitHub Pages based on GitHub's Primer styles"
+  s.summary       = "Welcome to the New LinkedIn 🚀"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^(assets|_(includes|layouts|sass)/|(LICENSE|README)((\.(txt|md)|$)))}i)
